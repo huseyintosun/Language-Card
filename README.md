@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Outcome
-![ Alt text](Language-Card.gif) / ! [](Language-Card.gif)
+![ Alt text](Language-Card.gif)
 
 ## Available Scripts
 
